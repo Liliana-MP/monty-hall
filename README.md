@@ -1,3 +1,5 @@
+## Monty Hall
+For this project to work make sure you're running both the backend and the frontend.
 ## First Step
 First step is to clone the project. Stand in your preferred folder and run:
 ```bash
