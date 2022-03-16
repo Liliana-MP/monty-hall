@@ -1,0 +1,22 @@
+{
+  "primary": {
+    "color": "#ff813d",
+    "text": "#000"
+  },
+  "secondary": {
+    "color": "#2d2928",
+    "text": "#FFF"
+  },
+  "background": {
+    "color": "#FFFEF2",
+    "text": "#FFF"
+  },
+  "color_codes": {
+    "dark_grey": "#ADACA8",
+    "light_grey": "#E0E0E0",
+    "white": "#FFF",
+    "black": "#000"
+  },
+  "error": "#E50C0C",
+  "success": "#0DB728"
+}
