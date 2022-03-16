@@ -1,4 +1,3 @@
-## Monty Hall
 ## First Step
 First step is to clone the project. Stand in your preferred folder and run:
 ```bash
